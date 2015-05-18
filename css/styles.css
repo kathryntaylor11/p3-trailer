@@ -3,11 +3,17 @@ YOUR STYLES
 *******************/
 
 body {
-	padding: 10px;
+	padding: 100px;
 }
 
+video {
+  height: 100%;
+  width: 100%;
+}
 
-
+body{
+  background-color: #3388dd;
+}
 /********************
 MEDIA QUERIES
 *******************/
@@ -34,12 +40,13 @@ STYLING VIDEO
 /* Hooks */
 
 .mejs-treehouse .mejs-controls {
-  background: rgba(56,64,71,0.98);
+  background: #fff;
   height: 30px;
 }
 
 .mejs-treehouse .mejs-controls .mejs-button button {
   outline: none;
+  color: #3388dd;
 }
 
 .mejs-treehouse .mejs-controls .mejs-captions-button {
