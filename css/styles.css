@@ -25,7 +25,14 @@ h1 {
   font-family: 'Sniglet', cursive;
   color: #3388dd;
   text-align: center;
- font-size: 6em;
+  font-size: 6em;
+}
+
+h2 {
+  font-family: 'Sniglet', cursive;
+  color: #3388dd;
+  text-align: center;
+  font-size: 3em;
 }
 
 
