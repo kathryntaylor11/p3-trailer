@@ -35,6 +35,12 @@ h2 {
   font-size: 3em;
 }
 
+p {
+  font-family: 'Lato', bold, sans-serif;
+  color: #3388dd;
+  text-align: center;
+  font-size: 3em;
+}
 
 
 
@@ -263,6 +269,7 @@ http://codepen.io/jascha/pen/Ftkwg
 .icon-facebook:before {
   content: "d";
 }
+
 
 
 
